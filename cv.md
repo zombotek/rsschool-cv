@@ -9,13 +9,14 @@
 * E-mail: zombotek@mail.ru
 * Discord: zombotek#6583
 
-## Work experience
+## Experience
 * Experienced sales manager with a long working history, sociable and very positive. Recently, he has gone into information technology: web development, applications, new gadgets, testing. I actively develop in these areas, it is easy to train. Stress-resistant, as I am outside of Russia.
 
 * HTML, CSS, Bootstrap
 
 * https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md
 
+## Work Expirience
 * Oct 2022 – Present  - Yandex QA Tester. 
 Testing Yandex services (mail, music, weather,...), Creating bug reports. 
 
