@@ -35,7 +35,7 @@ ul{
     color: #0080ff;
 }
 nav a {
-    margin:auto;
+    margin:0;
 }
 .header {
     background-color: #ECECEC;
@@ -44,7 +44,6 @@ nav a {
 }
 .aside {
     border-right: 1px solid #CCCCCC;
-    width: 560px;
     padding-right: 87px;
 }
 .pic {
@@ -60,13 +59,13 @@ nav a {
 .name {
     display: block;
     width: 305px;
-    height: 105px;
 }
 
 h1 {
     font-weight: 500;
     font-size: 48px;
-    line-height: 50px;   
+    line-height: 100%;
+    margin: 25px 0 0;  
 }
 
 h2 {
@@ -132,14 +131,11 @@ ul li {
     transition: color linear .2s;
 }
 .link:hover {
-    color: #0080ff
+    color: #0080ff;
 }
 
-.exp-item {
-    margin-top: 25px;
-}
 .experience ul li {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
 .footer-container {
     width: 1100px;
